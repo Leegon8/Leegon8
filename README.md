@@ -4,7 +4,7 @@
 
 ### `// about`
 
-I write C close to the metal: processes, file descriptors, signals, memory and threads.
+I write C at the systems level: processes, file descriptors, signals, memory and threads.
 Trained at **42 Barcelona**, where everything is built from scratch, no libraries, no shortcuts, and every leak counts.
 
 Before code I worked in visual design, which is why this page doesn't look like a default template.
