@@ -45,7 +45,7 @@ Now I'm pointing all of it at **security**: understanding how systems work well 
 ### `// contact`
 
 [![LinkedIn](https://img.shields.io/badge/in%2Flaurianegnr-0B0D10?style=for-the-badge&logo=linkedin&logoColor=E8EDF2)](https://www.linkedin.com/in/laurianegnr)
-&nbsp;📍 Barcelona
+&nbsp;
 
 <br>
 
